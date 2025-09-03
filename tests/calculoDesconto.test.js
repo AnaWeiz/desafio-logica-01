@@ -1,5 +1,5 @@
 const { calcularDesconto } = require('../src/calculoDesconto');
 
-const resultadoDesconto = calcularDesconto(100, 30);
+const resultadoDesconto = calcularDesconto(30, 10);
 
 console.log(resultadoDesconto);
